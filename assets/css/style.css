@@ -210,15 +210,15 @@ a:hover {
   display: inline-block;
 }
 .socials .ico-circle {
-  height: 40px;
-  width: 40px;
-  font-size: 1.2rem;
-  border-radius: 50%;
-  color: white;
-  line-height: 1.6;
-  margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
-  transition: all 500ms ease;
+    height: 40px;
+    width: 40px;
+    font-size: 1.2rem;
+    border-radius: 50%;
+    color: white;
+    line-height: 2;
+    margin: 0 15px 0 0;
+    box-shadow: 0 0 0 3px #0078ff;
+    transition: all 500ms ease;
 }
 .socials .ico-circle:hover {
   background-color: #0078ff;
